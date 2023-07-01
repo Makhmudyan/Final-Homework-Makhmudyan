@@ -1,0 +1,15 @@
+/Users/Marianna/Desktop/GeekBrains/Homeworks/Final Homework Makhmudyan/Задача/bin/Debug/net6.0/Задача
+/Users/Marianna/Desktop/GeekBrains/Homeworks/Final Homework Makhmudyan/Задача/bin/Debug/net6.0/Задача.deps.json
+/Users/Marianna/Desktop/GeekBrains/Homeworks/Final Homework Makhmudyan/Задача/bin/Debug/net6.0/Задача.runtimeconfig.json
+/Users/Marianna/Desktop/GeekBrains/Homeworks/Final Homework Makhmudyan/Задача/bin/Debug/net6.0/Задача.dll
+/Users/Marianna/Desktop/GeekBrains/Homeworks/Final Homework Makhmudyan/Задача/bin/Debug/net6.0/Задача.pdb
+/Users/Marianna/Desktop/GeekBrains/Homeworks/Final Homework Makhmudyan/Задача/obj/Debug/net6.0/Задача.csproj.AssemblyReference.cache
+/Users/Marianna/Desktop/GeekBrains/Homeworks/Final Homework Makhmudyan/Задача/obj/Debug/net6.0/Задача.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Marianna/Desktop/GeekBrains/Homeworks/Final Homework Makhmudyan/Задача/obj/Debug/net6.0/Задача.AssemblyInfoInputs.cache
+/Users/Marianna/Desktop/GeekBrains/Homeworks/Final Homework Makhmudyan/Задача/obj/Debug/net6.0/Задача.AssemblyInfo.cs
+/Users/Marianna/Desktop/GeekBrains/Homeworks/Final Homework Makhmudyan/Задача/obj/Debug/net6.0/Задача.csproj.CoreCompileInputs.cache
+/Users/Marianna/Desktop/GeekBrains/Homeworks/Final Homework Makhmudyan/Задача/obj/Debug/net6.0/Задача.dll
+/Users/Marianna/Desktop/GeekBrains/Homeworks/Final Homework Makhmudyan/Задача/obj/Debug/net6.0/refint/Задача.dll
+/Users/Marianna/Desktop/GeekBrains/Homeworks/Final Homework Makhmudyan/Задача/obj/Debug/net6.0/Задача.pdb
+/Users/Marianna/Desktop/GeekBrains/Homeworks/Final Homework Makhmudyan/Задача/obj/Debug/net6.0/Задача.genruntimeconfig.cache
+/Users/Marianna/Desktop/GeekBrains/Homeworks/Final Homework Makhmudyan/Задача/obj/Debug/net6.0/ref/Задача.dll
